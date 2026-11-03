@@ -1,6 +1,0 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Fusion Blocks AI</string>
-    <string name="accessibility_service_description">Allows Fusion Blocks AI to drag one puzzle block at a time when you enable automation.</string>
-</resources>
